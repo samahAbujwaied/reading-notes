@@ -56,12 +56,18 @@ function fancyAlert(arg) {
 ```
 
 3. Task Lists.
-4. Tables
-5. SHA references.
-6. Username @mentions
-7. Automatic linking for URLs
-8. Strikethrough
-9. Emoji
+
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [ ] this is an incomplete item
+-
+5. Tables
+6. SHA references.
+7. Username @mentions
+8. Automatic linking for URLs
+9. Strikethrough
+10. Emoji
 
  
  
