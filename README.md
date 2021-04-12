@@ -13,6 +13,13 @@ Thats all of my tasks :
 |  Read2     | [read 02](read02.md)         |
 
 
+my notes:
+1. the lectures take a long time and maybe its a little bit hard but its more useful for me I trust .
+
+
+
+
+
 
 
 
