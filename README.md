@@ -7,4 +7,6 @@ It is related also to how you search for positivity in *your life*, how to becom
 >to achieve what they want to reach.
 
 [read 01](read01)
-[read 01](read02)
+
+
+[read 02](read02)
