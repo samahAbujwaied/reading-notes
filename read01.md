@@ -7,8 +7,8 @@
 1. Headers 
 2. Emphasis
 3. Lists
-    1. Ordered
-    2.Unordered
+    i. Ordered
+    ii.Unordered
 4.Images
 5.Blockquotes
 6.Inline code
