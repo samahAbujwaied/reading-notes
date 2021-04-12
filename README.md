@@ -7,5 +7,8 @@ It is related also to how you search for positivity in *your life*, how to becom
 >to achieve what they want to reach.
 
 
-[read 01](https://samahabujwaied.github.io/reading-notes/read01)
-[read 02](https://samahabujwaied.github.io/reading-notes/read02)
+
+| Assignment |             Link             |
+| -----------|------------------------------|
+|  Read1     | [read 01](read01.md)         |
+|  Read2     | [read 02](read02.md)         |
