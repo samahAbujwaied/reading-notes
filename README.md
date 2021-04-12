@@ -5,3 +5,5 @@ is related to the mental capabilities that are based on how to become **a succes
 
 It is related also to how you search for positivity in *your life*, how to become a high-minded person. Certainly, you should not waste your time comparing yourself to people who have achieved success because they have gone through many stages 
 >to achieve what they want to reach.
+
+[read 01](read01)
