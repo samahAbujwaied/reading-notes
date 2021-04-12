@@ -5,12 +5,18 @@
 
 ## There are Syntax guide you can deal with :
 1. Headers 
-2. Emphasis
-3. Lists
+
+3. Emphasis
+4. Lists
+
     i. Ordered
+    
     ii.Unordered
+    
 4.Images
+
 5.Blockquotes
+
 6.Inline code
 
  
