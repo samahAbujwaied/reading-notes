@@ -34,11 +34,11 @@
 
 [GitHub](http://github.com)
 
-7.Blockquotes
+6.Blockquotes
 
 > the present is our past.
 
-6.Inline code
+7.Inline code
 
 I think you should use an
 `<addr>` element here instead.
@@ -46,13 +46,22 @@ I think you should use an
 # *_GitHub Flavored Markdown_* 
 
 1. Syntax highlighting.
-2. Task Lists.
-3. Tables
-4. SHA references.
-5. Username @mentions
-6. Automatic linking for URLs
-7. Strikethrough
-8. Emoji
+
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
+
+3. Task Lists.
+4. Tables
+5. SHA references.
+6. Username @mentions
+7. Automatic linking for URLs
+8. Strikethrough
+9. Emoji
 
  
  
