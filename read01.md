@@ -7,17 +7,22 @@
 1. Headers <h1> (tag)
 
 3. Emphasis
+
     *italic*
+    
     **bold**
+    
     _**combine them**_
+    
 5. Lists
  
-
     i. Ordered
+    
        1. Item 1
-       1. Item 2
+       2. Item 2
     
     ii.Unordered
+    
         * Item 1
         * Item 2
     
