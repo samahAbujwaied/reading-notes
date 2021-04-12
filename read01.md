@@ -3,5 +3,15 @@
 
 **Markdown is a lightweight markup language for creating formatted text using a plain-text editor. John Gruber and Aaron Swartz created Markdown in 2004 as a markup language that is appealing to human readers in its source code form.**
 
+## There are Syntax guide you can deal with :
+1. Headers 
+2. Emphasis
+3. Lists
+    1. Ordered
+    2.Unordered
+4.Images
+5.Blockquotes
+6.Inline code
+
  
  
