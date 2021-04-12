@@ -47,27 +47,23 @@ I think you should use an
 
 1. Syntax highlighting.
 
-```javascript
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-```
+2. Task Lists.
 
-3. Task Lists.
+3. Tables
 
-- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
-- [x] list syntax required (any unordered or ordered list supported)
-- [x] this is a complete item
-- [ ] this is an incomplete item
--
-5. Tables
-6. SHA references.
-7. Username @mentions
-8. Automatic linking for URLs
-9. Strikethrough
-10. Emoji
+4. SHA references.
+
+5. Issue references within a repository
+
+6. Username @mentions
+
+7. Automatic linking for URLs
+
+8. Strikethrough
+
+9. Emoji
+
+:EMOJICODE:
 
  
  
