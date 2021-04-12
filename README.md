@@ -1,3 +1,19 @@
+# Welcome Dear 💙 😸
+
+I am samah abujwaied , I received Bacholar'sdegree in A **COMPUTER SCIENCE** at *AL-Hussien bin talasl Univercity*  I am enjoying with you , I hop we share our experiences together 🤟 ❣️
+
+
+Thats all of my tasks :
+
+
+
+| Assignment |             Link             |
+| -----------|------------------------------|
+|  Read1     | [read 01](read01.md)         |
+|  Read2     | [read 02](read02.md)         |
+
+
+
 
 # The growth mindset
 
@@ -8,7 +24,3 @@ It is related also to how you search for positivity in *your life*, how to becom
 
 
 
-| Assignment |             Link             |
-| -----------|------------------------------|
-|  Read1     | [read 01](read01.md)         |
-|  Read2     | [read 02](read02.md)         |
