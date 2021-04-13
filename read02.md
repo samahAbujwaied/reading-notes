@@ -1,6 +1,5 @@
 **Seeing Your Remotes**
 
-<<<<<<< HEAD
 ![](https://images1.arabicprogrammer.com/178/e1/e12c1be2dde23abd8d0fa0e8aca77422.png)
 
 *By using git remote -v, you can view all the remote URLs next to their corresponding short names.*

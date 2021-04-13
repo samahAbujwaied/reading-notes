@@ -27,3 +27,10 @@ handel with:
 
 >Every website should designed for the target audiece -not just for yourself or the site owner.
 
+# Why people visit your website?
+
+_Website visits may come to your website from people ready to transact either money or information. When these visitors land on your site, you need to make sure they get to do exactly what they are looking for right away._
+
+# How often people will visit your site?
+
+_Some sites benefit from being updated more frequently than others. Some information (Such as news) may be constantly changing while other content remains relatively static._
