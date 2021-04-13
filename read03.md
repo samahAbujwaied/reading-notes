@@ -22,7 +22,7 @@ handel with:
 * sections
 * heading groups
 * figuers 
-![] (https://academy.hsoub.com/uploads/monthly_2021_02/html-vs-html5.png.e85f8d628acd941bcc55f0c1b0947546.png)
+![html] (https://academy.hsoub.com/uploads/monthly_2021_02/html-vs-html5.png.e85f8d628acd941bcc55f0c1b0947546.png)
 # Who is the site for ?
 
 >Every website should designed for the target audiece -not just for yourself or the site owner.
