@@ -34,3 +34,5 @@ handel with:
 # How often people will visit your site?
 
 >Some sites benefit from being updated more frequently than others. Some information (Such as news) may be constantly changing while other content remains relatively static.
+
+
