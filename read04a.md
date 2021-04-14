@@ -54,20 +54,18 @@ The CSS enhances the HTML page with rules that state how the HTML content is pre
 
 
 ** **
- 
+
 Basic JAVA instruction 
 
 * ST A TEMENTS A script is a series of instructions that a computer can follow one-by-one. Each individual instruction or step is known as a statement.
 
+* Statements should end with a semicolon.
 
-Statements should end with a semicolon.
-* COMMENTS (use  //  for inline commint or /*   */ for paragragh)
+* COMMENTS (use  //  for inline commint or /*   */ for paragragh).
 
-** **
+## WHAT IS  A VARIABLE ? 
 
- ## WHAT IS A VARIABLE?
-
- *JavaScript variables are containers for storing data values.
+*JavaScript variables are containers for storing data values.
 In this example, x, y, and z, are variables, declared with the var keyword*
 
 ## DATA TYPES
