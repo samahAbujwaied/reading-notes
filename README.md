@@ -9,11 +9,7 @@ Thats all of my tasks :
 
 | Assignments|             Link             |
 | -----------|------------------------------|
-<<<<<<< HEAD
 |  GrowthMS  | [GrowthMS](gthmset.mdd)      |
-=======
-|  GrowthMS  | [GrowthMS](gthmset.mdd) |
->>>>>>> f2430fbf399225a031a140f85edfca20ae27b200
 |  Read1     | [read 01](read01.md)         |
 |  Read2     | [read 02](read02.md)         |
 |  Read3     | [read 03](read03.md)         |
