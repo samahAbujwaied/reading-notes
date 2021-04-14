@@ -7,7 +7,8 @@ Thats all of my tasks :
 
 
 
-| Assignments|             Links             |
+| Assignments|             Links
+             |
 | -----------|------------------------------|
 |  GrowthMS  | [GrowthMS](growthmindset.md) |
 |  Read1     | [read 01](read01.md)         |
