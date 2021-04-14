@@ -10,7 +10,7 @@ Thats all of my tasks :
 | Assignments|             Links
              |
 | -----------|------------------------------|
-|  GrowthMS  | [GrowthMS](growthmindset.md) |
+|  GrowthMS  | [GrowthMS](gthmset.mdd) |
 |  Read1     | [read 01](read01.md)         |
 |  Read2     | [read 02](read02.md)         |
 |  Read3     | [read 03](read03.md)         |
