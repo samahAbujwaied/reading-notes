@@ -4,7 +4,7 @@
 
 ### *First, we must explain each one separately*
 
-1. <Html>
+* <Html>
 
 > It is a markup language for creating web pages and web applications, and stands for Hypertext Markup Language. Use with CSS and JavaScript to create interactive web pages.
 
@@ -15,7 +15,7 @@ This is where the content of the page lives. The HTML gives the page structure a
 
 ** **
 
-2. {css}
+* {css}
 > CSS - short for Cascading Style Sheet - is a descriptive language that gives your website its beautiful look and unique design that will distinguish it from other websites.
 
 >> PRESENTATION LAYER
