@@ -4,22 +4,28 @@
 
 ### *First, we must explain each one separately*
 
-* <Html>
+
+* '<Html>'
 
 > It is a markup language for creating web pages and web applications, and stands for Hypertext Markup Language. Use with CSS and JavaScript to create interactive web pages.
 
 >> CONTENT LAYER
+
 **.html files**
+
 This is where the content of the page lives. The HTML gives the page structure and adds semantics.
 
 
 ** **
 
 * {css}
+
 > CSS - short for Cascading Style Sheet - is a descriptive language that gives your website its beautiful look and unique design that will distinguish it from other websites.
 
 >> PRESENTATION LAYER
+
 **.css files**
+
 The CSS enhances the HTML page with rules that state how the HTML content is presented (backgrounds, borders, box dimensions, colors, fonts, etc.).
 
 ** ** 
@@ -47,7 +53,8 @@ The CSS enhances the HTML page with rules that state how the HTML content is pre
 ![](https://www.homeandlearn.co.uk/javascript/images/chapter_1/javascript_body.gif)
 
 
-** ** 
+** **
+ 
 Basic JAVA instruction 
 
 * ST A TEMENTS A script is a series of instructions that a computer can follow one-by-one. Each individual instruction or step is known as a statement.
