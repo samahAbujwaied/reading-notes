@@ -69,7 +69,9 @@ while(i < 5)
 {
     console.log(i);
     i++;
-}.
+}
+
+
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/While-loop-diagram.svg/220px-While-loop-diagram.svg.png)
 
 
