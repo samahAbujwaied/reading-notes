@@ -14,7 +14,20 @@ Thats all of my tasks :
 |  Read2     | [read 02](read02.md)         |
 |  Read3     | [read 03](read03.md)         |
 |  Read4a    | [read 04a](read04a.md)       |
-|  Read4b    | [read 04a](read04b.md)       |
+|  Read4b    | [read 04b](read04b.md)       |
+|  Read5     | [read 05 ](read05.md)       |
+
+| Labs       |             Link             |
+| -----------|------------------------------|
+|  lab01a      | [lab01a](https://canvas.instructure.com/courses/2679568/assignments/21205474/submissions/29898815)       |
+|  lab01b      | [lab01b](https://canvas.instructure.com/courses/2679568/assignments/21205470/submissions/29898815)         |
+|  lab02     | [lab02](https://canvas.instructure.com/courses/2679568/assignments/21205459/submissions/29898815)         |
+|  lab03     | [lab03](https://canvas.instructure.com/courses/2679568/assignments/21205458/submissions/29898815)         |
+|  lab04     | [lab04](https://canvas.instructure.com/courses/2679568/assignments/21205456/submissions/29898815)         |
+
+
+
+
 
 my Accounts:
 
