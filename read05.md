@@ -64,12 +64,14 @@ _The following illustrates the syntax of the While loop statement:_
 }**
 
 Example: while loop
->var i =0;
-while(i < 5)
-{
-    console.log(i);
-    i++;
-}
+   >var i =0;
+   while(i < 5)
+   {
+      console.log(i);
+     i++;
+     }
+
+
 
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/While-loop-diagram.svg/220px-While-loop-diagram.svg.png)
