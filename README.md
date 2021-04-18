@@ -17,6 +17,7 @@ Thats all of my tasks :
 |  Read4b    | [read 04b](read04b.md)       |
 |  Read5     | [read 05 ](read05.md)       |
 |  Read6     | [read 06 ](read06.md)       |
+|  Read7     | [read 07 ](read07.md)       |
 
 
 | Labs       |             Link             |
