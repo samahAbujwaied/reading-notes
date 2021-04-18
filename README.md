@@ -16,6 +16,7 @@ Thats all of my tasks :
 |  Read4a    | [read 04a](read04a.md)       |
 |  Read4b    | [read 04b](read04b.md)       |
 |  Read5     | [read 05 ](read05.md)       |
+|  Read6     | [read 06 ](read06.md)       |
 
 
 | Labs       |             Link             |
@@ -51,9 +52,6 @@ canvas:https://canvas.instructure.com/profile#
 
 my notes:
 1. the lectures take a long time and maybe its a little bit hard but its more useful for me I trust .
-
-
-
 
 
 
