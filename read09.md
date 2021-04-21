@@ -16,10 +16,13 @@
 
 
 * **What features should you look for in a text editor?**
-  1- code completion.
-  2-syntax highlighting.
-  3-a nice variety of themes (to reduce eye strain and fatigue).
-  4- the ability to choose from a healthy selection of extensions available when you need them.
+1- code completion.
+
+2-syntax highlighting.
+
+3-a nice variety of themes (to reduce eye strain and fatigue).
+
+4- the ability to choose from a healthy selection of extensions available when you need them.
 
 
 
@@ -43,13 +46,14 @@ _Syntax highlighting is a feature that takes the text you type, and makes it mor
 
 _These themes will allow you to change the color of the background of your text editor, the series of colors in your text, and sometimes themes will affect other aspects of your text editing software as well. Usually, web developers use a dark background and brightly colored text. This combination seems to be easier on the eyes —but there are other themes to choose from as well. Since you’ll be using your text editor most of the time, it’s good to find a theme that might reduce eye strain and fatigue._
 
-4-**Third-Party Options**
+4- **Third-Party Options**
     
      
    * NotePad++
 
-    is a free text editor for Windows Computers only. NotePad++ has been around for many years and many web developers swear by NotePad++. It has syntax highlighting and code completion, as well as word completion and function completion. It has a zoom in an out feature, it’s own online community, and its own chat room for questions that may arise. It even has its own searchable wiki page for more assistance
-    ![](https://img-0.journaldunet.com/dcS87ifop5cPKUl1_R4xgYgy_eo=/1280x/smart/1994cd27a91742a18a463bea63410272/ccmcms-jdn/13805440.jpg)
+   is a free text editor for Windows Computers only. NotePad++ has been around for many years and many web developers swear by NotePad++. It has syntax highlighting and code completion, as well as word completion and function completion. It has a zoom in an out feature, it’s own online community, and its own chat room for questions that may arise. It even has its own searchable wiki page for more assistance
+  
+  ![](https://img-0.journaldunet.com/dcS87ifop5cPKUl1_R4xgYgy_eo=/1280x/smart/1994cd27a91742a18a463bea63410272/ccmcms-jdn/13805440.jpg)
   
    * TextWrangler
 
