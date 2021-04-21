@@ -15,9 +15,10 @@ Thats all of my tasks :
 |  Read3     | [read 03](read03.md)         |
 |  Read4a    | [read 04a](read04a.md)       |
 |  Read4b    | [read 04b](read04b.md)       |
-|  Read5     | [read 05 ](read05.md)       |
-|  Read6     | [read 06 ](read06.md)       |
-|  Read7     | [read 07 ](read07.md)       |
+|  Read5     | [read 05 ](read05.md)        |
+|  Read6     | [read 06 ](read06.md)        |
+|  Read7     | [read 07 ](read07.md)        |
+|  Read9     | [read 09 ](read09.md)        |
 
 
 | Labs       |             Link             |
@@ -29,26 +30,6 @@ Thats all of my tasks :
 |  lab04     | [lab04](https://canvas.instructure.com/courses/2679568/assignments/21205456/submissions/29898815)         |
 
 
-
-
-
-my Accounts:
-
-yahoo mail: samah.abujweed@yahoo.com
-
-![github](https://www.lifewire.com/thmb/wwmsgj3_0-ADwMt1r3qpvf-Apts=/1526x858/smart/filters:no_upscale()/yahoo-logo-2019-879b7bed612d4bbc97065dce2a0f2d73.png)
-
-replit:https://replit.com/@SamahAbujweed
-
-![reblit](https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2019/09/replit-logo.png?resize=730%2C389&ssl=1)
-
-github:https://github.com/samahAbujwaied
-
-![github](https://miro.medium.com/max/719/1*WaaXnUvhvrswhBJSw4YTuQ.png)
-
-canvas:https://canvas.instructure.com/profile#
-
-![canvas](https://www.uab.edu/elearning/images/pictures/academic-technologies/logos/canvas.png)
 
 
 my notes:
