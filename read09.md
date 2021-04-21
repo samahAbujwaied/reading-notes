@@ -16,6 +16,8 @@
 
 
 * **What features should you look for in a text editor?**
+
+
 1- code completion.
 
 2-syntax highlighting.
