@@ -79,11 +79,13 @@ _These themes will allow you to change the color of the background of your text 
    * Brackets
     
     Brackets is a free text editor that’s available for download for Windows computers, Mac computers and Linux computers. It’s made and maintained by the good folks at Adobe—yep, the Photoshop people. Brackets only supports HTML, CSS and JavaScript, though more coding capabilities can be added through extensions. Being that Brackets only supports HTML, CSS and JavaScript, this might be a great choice to start with. But still the choice is yours.
-
-     * Sublime Text
       
       
    ![](https://i.pinimg.com/originals/fb/94/d9/fb94d9033b7cb1fa4f4dfb96611b4baa.png)
+
+
+   * Sublime Text
+    Sublime Text 3 is a premium software that can be purchased in full for $70. Otherwise you’ll use the free version. Sublime Text enjoys a history of being fast and responsive while being extensible as well. There’s no doubt that Sublime Text will tick the check boxes of what to look for in a text editor. It has syntax highlighting, it has code completion, it has themes and extensions. And will definitely get the job done no matter how advanced you get with your coding.
 
     
    ![](https://www.sublimetext.com/images/og.png)
