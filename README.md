@@ -2,6 +2,7 @@
 
 I am samah abujwaied , I received Bacholar'sdegree in A **COMPUTER SCIENCE** at *AL-Hussien bin talasl Univercity*  I am enjoying with you , I hop we share our experiences together 🤟 ❣️
 
+👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻
 
 Thats all of my tasks :
 # Code 102 Reading Notes
@@ -22,13 +23,6 @@ Thats all of my tasks :
 
 
 
-| Labs       |             Link             |
-| -----------|------------------------------|
-|  lab01a      | [lab01a](https://canvas.instructure.com/courses/2679568/assignments/21205474/submissions/29898815)       |
-|  lab01b      | [lab01b](https://canvas.instructure.com/courses/2679568/assignments/21205470/submissions/29898815)         |
-|  lab02     | [lab02](https://canvas.instructure.com/courses/2679568/assignments/21205459/submissions/29898815)         |
-|  lab03     | [lab03](https://canvas.instructure.com/courses/2679568/assignments/21205458/submissions/29898815)         |
-|  lab04     | [lab04](https://canvas.instructure.com/courses/2679568/assignments/21205456/submissions/29898815)         |
 
 👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻
 
