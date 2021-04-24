@@ -33,20 +33,10 @@ Thats all of my tasks :
 
 
 
-my notes:
-1. the lectures take a long time and maybe its a little bit hard but its more useful for me I trust .
+My notes:
+1. The lectures take a long time and maybe its a little bit hard but its more useful for me I trust .
 
-?[cdfd?]
-- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
-- [x] list syntax required (any unordered or ordered list supported)
-- [x] this is a complete item
-- [ ] this is an incomplete item
 
-?[This is the label used for the question](single)
-- [ ] Choice 1
-- [X] Choice 2 which is a valid answer
-- [ ] Choice 3
-- [X] Choice 4 which is a valid answer
 
 
 

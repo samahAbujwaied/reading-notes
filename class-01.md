@@ -36,7 +36,9 @@ Let's look closer at the code from the last page. There are several different el
 ```
 // for inline comment
 ```
+**What is CSS?**
 
+CSS stands for Cascading Style Sheets. CSS describes how HTML elements are to be displayed on screen, paper, or in other media. CSS saves a lot of work. It can control the layout of multiple web pages all at once. External stylesheets are stored in CSS files.
 
 
 ##### id attribute
@@ -83,6 +85,9 @@ Let's look closer at the code from the last page. There are several different el
 
 ![](https://d1dlalugb0z2hd.cloudfront.net/handbooks/agile-handbook/wireframe/01-youtube-wireframe-example.png)
 
+**What is JS (JAVASCRIPT)?**
+
+JavaScript is a scripting or programming language that allows you to implement complex features on web pages — every time a web page does more than just sit there and display static information for you to look at — displaying timely content updates, interactive maps, animated 2D/3D graphics, scrolling video jukeboxes, etc.
 
 # Writing a script 
 
@@ -96,11 +101,37 @@ Let's look closer at the code from the last page. There are several different el
 2. DESIGN THE SCRIPT.
 3. CODE EACH STEP.
 
-?[What is the answer to Life, the Universe and Everything?]
+NOW lets start the quiz , Prepare a sheet to write your answers and be honest with ourselves.
 
--[ ] There is no answer to that!
--[ ] Sleep and eat
--[x] Easy, this is 42
--[ ] Peace & Love
+**First Q ==>**
+What does HTML stand for? 
+.............................
+
+**Second Q ==>** 
+How we can write comment in HTML?
+.............................
+
+**Third Q ==>**
+What does CSS stand for?
+.............................
 
 
+**Fourth Q ==>**
+What is JS?
+
+.............................
+
+ **Fifth Q ==>**
+Attributes tell us more about elements and are made up of two parts are .........................................
+
+**Sixth Q ==>**
+Example about block element 
+ ..................................
+
+ **Seventh Q ==>**
+Example about inline element 
+ ..................................
+
+ **Eighth Q ==>**
+Example about Grouping element 
+ ..................................
