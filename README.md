@@ -19,6 +19,7 @@ Thats all of my tasks :
 |  Read6     | [read 06 ](read06.md)        |
 |  Read7     | [read 07 ](read07.md)        |
 |  Read9     | [read 09 ](read09.md)        |
+|  class-01  | [class-01](class-01.md)      |
 
 
 | Labs       |             Link             |
