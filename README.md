@@ -4,7 +4,7 @@ I am samah abujwaied , I received Bacholar'sdegree in A **COMPUTER SCIENCE** at 
 
 
 Thats all of my tasks :
-
+# Code 102 Reading Notes
 
 
 | Assignments|             Link             |
@@ -19,7 +19,7 @@ Thats all of my tasks :
 |  Read6     | [read 06 ](read06.md)        |
 |  Read7     | [read 07 ](read07.md)        |
 |  Read9     | [read 09 ](read09.md)        |
-|  class-01  | [class-01](class-01.md)      |
+
 
 
 | Labs       |             Link             |
@@ -30,23 +30,21 @@ Thats all of my tasks :
 |  lab03     | [lab03](https://canvas.instructure.com/courses/2679568/assignments/21205458/submissions/29898815)         |
 |  lab04     | [lab04](https://canvas.instructure.com/courses/2679568/assignments/21205456/submissions/29898815)         |
 
+👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻
+
+# Code 201 Reading Notes
+| Assignments|             Link             |
+| -----------|------------------------------|
+|  class-01  | [class-01](class-01.md)      |
 
 
 
-my notes:
-1. the lectures take a long time and maybe its a little bit hard but its more useful for me I trust .
 
-?[cdfd?]
-- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
-- [x] list syntax required (any unordered or ordered list supported)
-- [x] this is a complete item
-- [ ] this is an incomplete item
 
-?[This is the label used for the question](single)
-- [ ] Choice 1
-- [X] Choice 2 which is a valid answer
-- [ ] Choice 3
-- [X] Choice 4 which is a valid answer
+My notes:
+1. The lectures take a long time and maybe its a little bit hard but its more useful for me I trust .
+
+
 
 
 
