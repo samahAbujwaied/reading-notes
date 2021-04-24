@@ -1,11 +1,17 @@
-##  how the web works
+# HTML, CSS ,JAVASCRIPT (what is related between them and how we use it ?)  
+
+
+>Note : There is short quiz in the bottom , please read carefuly to answer it 💪😎
+
+##  How the web works
 
 
 **When you visit a website, the web server hosting that site could be anywhere in the world. In order for you to find the location of the web server, your browser will first connect to a Domain Name System (DNS) server**
 
 ![](https://res.cloudinary.com/practicaldev/image/fetch/s--FV2E32tr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://image.slidesharecdn.com/lecture-2-160922145406/95/web-design-how-the-web-works-9-638.jpg)
 
-
+**What is HTML ?**
+     HTML stands for Hyper Text Markup Language. HTML is the standard markup language for creating Web pages. HTML describes the structure of a Web page. HTML consists of a series of elements. HTML elements tell the browser how to display the content. 
 #### HtmL uses eLements to describe the structure of pages
 
 Let's look closer at the code from the last page. There are several different elements. Each element has an opening tag and a closing tag 
@@ -84,9 +90,17 @@ Let's look closer at the code from the last page. There are several different el
 
 **To write a script, you need to first state your goal and then list the tasks that need to be completed in order to achieve it.**
 
-** Start with the big picture of what you want to achieve, and break that down into smaller steps.**
+**Start with the big picture of what you want to achieve, and break that down into smaller steps.**
 
 1. DEFINE THE GOAL.
 2. DESIGN THE SCRIPT.
 3. CODE EACH STEP.
+
+?[What is the answer to Life, the Universe and Everything?]
+
+-[ ] There is no answer to that!
+-[ ] Sleep and eat
+-[x] Easy, this is 42
+-[ ] Peace & Love
+
 
