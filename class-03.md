@@ -1,5 +1,7 @@
 
 ![](https://freefrontend.com/assets/img/html-funny-404-pages/CodePen-404-Page.png)
+
+## How we can use lists in my code?
 # LISTS
 
 * Numbered lists
@@ -46,7 +48,7 @@ min-width, max-width ,min-height, max-height
 ### overflowing content
 ![](https://i1.wp.com/css-tricks.com/wp-content/uploads/2021/02/overflow-visible.png?fit=570%2C500&ssl=1)
 ![](https://i1.wp.com/css-tricks.com/wp-content/uploads/2021/02/css-overflow-hidden.png?resize=570%2C461&ssl=1)
-
+## What is bordering
 # Border, margin & padding
 
 ![](https://1.bp.blogspot.com/-kWeJU7_9mRA/WX9Eo0BkrNI/AAAAAAAABWE/6cBlNggEJRgjTPT50bEGoDkboQcQCSC2ACLcBGAs/s640/box-model.gif)
@@ -92,7 +94,8 @@ min-width, max-width ,min-height, max-height
 ![](https://i.imgur.com/Xp6AZb2.png?1)
 
 
-# Loops in javascript 
+# Loops in javascript  
+
 **JavaScript supports different kinds of loops: for - loops through a block of code a number of times. for/in - loops through the properties of an object. for/of - loops through the values of an iterable object. while - loops through a block of code while a specified condition is true.**
 
 ![](https://www.javascripttutorial.net/wp-content/uploads/2020/01/JavaScript-for-Loop.png)
@@ -109,4 +112,4 @@ min-width, max-width ,min-height, max-height
 ### Do While loop
 ![](https://www.toolsqa.com/wp-content/gallery/javascript/doWhile-loop.png)
 
-#GOOD LUCH 
+#GOOD LUCK 
