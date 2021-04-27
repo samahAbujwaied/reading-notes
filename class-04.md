@@ -1,6 +1,6 @@
 ## What about links in HTML?
 
-#Links
+# Links
 
 * Creating links between pages
 * Linking to other sites
@@ -25,7 +25,8 @@ Links are created using the a element. Users can click on anything between the o
 
 ### Relative URLs
 **Relative URLs can be used when linking to pages within your own website. They provide a shorthand way of telling the browser where to find your files.**
-*This is figuar explains the difference between relative URL and absolute URL .
+
+* This is figuar explains the difference between relative URL and absolute URL .
 ![](https://i.ytimg.com/vi/eK3XoK8kbio/maxresdefault.jpg)
 
 ## EmaiL Links
@@ -45,7 +46,8 @@ Links are created using the a element. Users can click on anything between the o
 * Designing for different sized screens
 
 ### Key Concepts in positioning eLements
-#### * Building Blocks
+####  Building Blocks
+
 *CSS treats each HTML element as if it is in its own box.This box will either be a block-level box or an inline box.*
   
 * Block-level elements
@@ -57,7 +59,8 @@ Links are created using the a element. Users can click on anything between the o
  
  *If one block-level element sits inside another block-level element then the outer box is known as the containing or parent element.*
 
- ### Controlling the position of elements
+### Controlling the position of elements
+
  *CSS has the following positioning schemes that allow you to control the layout of a page: normal flow, relative positioning, and absolute positioning. You specify the positioning scheme using the position property in CSS. You can also float elements using the float property.*
 
  * normal flow
