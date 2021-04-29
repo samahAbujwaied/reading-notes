@@ -30,10 +30,11 @@ Thats all of my tasks :
 
 | Assignments|             Link             |
 | -----------|------------------------------|
-|  read1     | [read1](class-01.md)      |
-|  read2     | [read2](class-02.md)      |
-|  read3     | [read3](class-03.md)      |
-|  read4     | [read4](class-04.md)      |
+|  read1     | [read1](class-01.md)         |
+|  read2     | [read2](class-02.md)         |
+|  read3     | [read3](class-03.md)         |
+|  read4     | [read4](class-04.md)         |
+|  read5     | [read5](class-05.md)         |
 
 
 
