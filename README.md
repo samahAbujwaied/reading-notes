@@ -35,6 +35,7 @@ Thats all of my tasks :
 |  read3     | [read3](class-03.md)         |
 |  read4     | [read4](class-04.md)         |
 |  read5     | [read5](class-05.md)         |
+|  read6     | [read6](class-06.md)         |
 
 
 
