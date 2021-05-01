@@ -31,4 +31,40 @@
 ![](https://image.slidesharecdn.com/javascriptapisyouveneverheardof-121112193408-phpapp02/95/slide-23-1024.jpg)
 
 
-## Selecting an element from a nodelist
+## SELECTING ELEMENTS BY TAG NAME
+![](https://i.stack.imgur.com/ooD63.png)
+
+##  SELECTING ELEMENTS USING CSS SELECTORS
+![](https://res.cloudinary.com/practicaldev/image/fetch/s--Q8CHTwkR--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://cl.ly/4b2c95bd7c0e/download/Image%25202019-03-04%2520at%25206.19.12%2520PM.png)
+
+## Repeating actions for an entire nodelist
+![](https://www.codegrepper.com/codeimages/loop-through-html-nodelist.png)
+
+## Looping through a nodelist
+![](https://res.cloudinary.com/raymons/image/upload/w_1600/q_auto,f_auto/loop-over-nodelist-queryselectorall-javascript.png)
+
+##  TRAVERSING THE DOM
+![](https://www.qualitestgroup.com/images/howto/DOMTree_HowTo.png)
+
+##  HOW TO GET/UPDATE ELEMENT CONTENT
+![](https://data-flair.training/blogs/wp-content/uploads/sites/2/2019/08/JavaScript-get-update-element-content.png)
+
+##  ACCESS & UPDATE TEXT & MARKUP WITH INNERHTML
+![](https://www.codegrepper.com/codeimages/how-to-replace-inner-html-in-element-with-dom.png)
+
+## ADDING ELEMENTS USING DOM MANIPULATION
+![](https://dart.dev/tutorials/web/images/add-element.png)
+
+##  COMPARING TECHNIQUES: UPDATING HTML CONTENT
+![](https://media.geeksforgeeks.org/wp-content/uploads/22-17.png)
+
+## DEFENDING AGAINST CROSS-SITE SCRIPTING
+![](https://media.geeksforgeeks.org/wp-content/uploads/20190516152959/Cross-Site-ScriptingXSS.png)
+
+## CHECK FOR AN ATTRIBUTE AND GET ITS VALUES
+![](https://www.codegrepper.com/codeimages/check-attribute-value-javascript.png)
+
+## REMOVING ATTRIBUTES JS
+![](https://ultimatecourses.com/assets/blog/javascript/remove-object-properties-destructuring-d47f50c90b6ad69888c4929a228c9484320aa99c213ecfb8260b20688515cf61.png)
+
+# GOOD LUCK
