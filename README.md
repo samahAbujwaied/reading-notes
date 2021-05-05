@@ -38,6 +38,7 @@ Thats all of my tasks :
 |  read6     | [read6](class-06.md)         |
 |  read7     | [read7](class-07.md)         |
 |  read8     | [read8](class-08.md)         |
+|  read9     | [read9](class-09.md)         |
 
 
 
