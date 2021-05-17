@@ -41,7 +41,7 @@ Thats all of my tasks :
 |  read9     | [read9](class-09.md)         |
 |  read10     | [read10](class-010.md)      |
 |  read11     | [read11](class-011.md)      |
-
+|  read12     | [read12](class-012.md)      |
 
 
 My notes:
