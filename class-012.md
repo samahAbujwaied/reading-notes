@@ -105,7 +105,9 @@
 ![](https://media.prod.mdn.mozit.cloud/attachments/2015/01/18/9855/c8d648daa8e6bd3d94756ee57b16a28d/fill-rule.png)
 
 # Drawing shapes with canvas
+
 * The grid
+
 ![](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_shapes/canvas_default_grid.png)
  
 #### Drawing rectangles
