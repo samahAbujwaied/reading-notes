@@ -37,7 +37,8 @@
   1. fillStyle .
   2.  strokeStyle.
    *fillStyle = color*
-   **color is a string representing a CSS ```<color>```, a gradient object, or a pattern object. We'll look at gradient and pattern objects later. By default, the stroke and fill color are set to black (CSS color value #000000).**
+
+**color is a string representing a CSS ```<color>```, a gradient object, or a pattern object. We'll look at gradient and pattern objects later. By default, the stroke and fill color are set to black (CSS color value #000000).**
    > Note: When you set the strokeStyle and/or fillStyle property, the new value becomes the default  for all shapes being drawn from then on. For every shape you want in a different color, you will need to reassign the fillStyle or strokeStyle property.
 ### A fill Style example
 ![](https://static.commonlounge.com/fp/600w/LZ1cBjfZz4U10BK1yyPieiWF11533914674_kc)
@@ -52,31 +53,55 @@
  *globalAlpha = transparencyValue*
 
 * A global Alpha example
+
 ![](https://static.commonlounge.com/fp/600w/J7xU2h1UYUVTJrIk5eOfld2ij1533914687_kc)
+
 * An example using rgba()
+
 ![](https://media.prod.mdn.mozit.cloud/attachments/2012/07/09/246/258cf71b564f5bddb9e5180b567101b6/Canvas_rgba.png)
+
 * A line Width example
+
 ![](https://media.prod.mdn.mozit.cloud/attachments/2012/07/09/239/7bdc0d7dffe1e887b327243c9c8687eb/Canvas_linewidth.png)
+
 * A line Cap example 
+
 ![](http://i.stack.imgur.com/XwUuF.png)
+
 * A line Join example
+
 ![](http://i.stack.imgur.com/XDrkB.png)
+
 * A demo of the miterLimit property
+
 ![](https://media.prod.mdn.mozit.cloud/attachments/2012/07/09/240/1ef20a2b0f86279ce0e2f660d760eb7a/Canvas_miterlimit.png)
+
 * Using line dashes
+
 ![](https://www.indezine.com/products/powerpoint/learn/fillslinesandeffects/images/outlineweightanddash_2007_04.gif)
 
 * Gradients
+
 ![](https://css-tricks.com/wp-content/uploads/2021/02/gradient-borders-1.png)
+
 * A create Radial Gradient example
+
 ![](https://static.commonlounge.com/fp/600w/xDGHtNhfAdxGxYrkCGzv2L6Yr1533916234_kc)
+
 * A create Conic Gradient example 
+
 ![](https://i.stack.imgur.com/ATlVZ.gif)
+
 * A create Pattern example
+
 ![](https://static.commonlounge.com/fp/600w/FQueni7qGBiganKB0U8t5pixQ1533916244_kc)
+
 * A shadowed text example
+
 ![](https://codesdope-media.nyc3.cdn.digitaloceanspaces.com/prod/media/blog_images/15/2019/3/9/25shadow.png)
+
 * Canvas fill rules
+
 ![](https://media.prod.mdn.mozit.cloud/attachments/2015/01/18/9855/c8d648daa8e6bd3d94756ee57b16a28d/fill-rule.png)
 
 # Drawing shapes with canvas
