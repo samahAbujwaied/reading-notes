@@ -40,6 +40,7 @@
 
 **color is a string representing a CSS ```<color>```, a gradient object, or a pattern object. We'll look at gradient and pattern objects later. By default, the stroke and fill color are set to black (CSS color value #000000).**
    > Note: When you set the strokeStyle and/or fillStyle property, the new value becomes the default  for all shapes being drawn from then on. For every shape you want in a different color, you will need to reassign the fillStyle or strokeStyle property.
+
 ### A fill Style example
 ![](https://static.commonlounge.com/fp/600w/LZ1cBjfZz4U10BK1yyPieiWF11533914674_kc)
 > ```function draw() { var ctx = document.getElementById('canvas').getContext('2d'); for (var i = 0; i < 6; i++) {  for (var j = 0; j < 6; j++) {  ctx.fillStyle = 'rgb(' + Math.floo (255 - 42.5 * i) + ', ' +        Math.floor(255 - 42.5 * j) + ', 0)';  ctx.fillRect(j * 25, i * 25 25, 25);  }  } }```
