@@ -4,7 +4,8 @@
 
 * fillText(text, x, y [, maxWidth])
 *Strokes a given text at the given (x,y) position. Optionally with a maximum width to draw.*
- ##### A fill Text example
+
+##### A fill Text example
  ![](https://zetcode.com/img/gfx/html5canvas/drawing_text.png)
  ###### The text is filled using the current fillStyle.
    ```function draw() { var ctx = document.getElementById('canvas').getContext('2d'); ctx.font = '48px serif'; ctx.fillText('Hello world', 10, 50);}```
