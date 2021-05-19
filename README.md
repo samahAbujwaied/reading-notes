@@ -41,6 +41,8 @@ Thats all of my tasks :
 |  read11    | [read11](class-011.md)       |
 |  read12    | [read12](class-012.md)       |
 |  read13    | [read13](class-013.md)       |
+|  read14a   | [read14a](class-014a.md)     |
+|  read14b   | [read14b](class-014b.md)     |
 
 
 My notes:
