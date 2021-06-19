@@ -48,6 +48,7 @@ Thats all of my tasks :
 | Assignments|             Link             |
 | -----------|------------------------------|
 |  read1     | [read1]()         |
+|  read1     | [read1]()         |
 
 My notes:
 1. The lectures take a long time and maybe its a little bit hard but its more useful for me I trust .
