@@ -5,7 +5,7 @@ I am samah abujwaied , I received Bacholar'sdegree in A **COMPUTER SCIENCE** at 
 👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻
 
 Thats all of my tasks :
-# Code 102 Reading Notes
+# Code 102 - Intro to Software Development
 
 
 | Assignments|             Link             |
@@ -24,7 +24,7 @@ Thats all of my tasks :
 
 👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻
 
-# Code 201 Reading Notes
+# Code 201 - Foundations of Software Development
 
 | Assignments|             Link             |
 | -----------|------------------------------|
@@ -44,6 +44,10 @@ Thats all of my tasks :
 |  read14a   | [read14a](class-014a.md)     |
 |  read14b   | [read14b](class-014b.md)     |
 
+# Code 301 - Intermediate Software Development
+| Assignments|             Link             |
+| -----------|------------------------------|
+|  read1     | [read1]()         |
 
 My notes:
 1. The lectures take a long time and maybe its a little bit hard but its more useful for me I trust .
