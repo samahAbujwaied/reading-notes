@@ -48,8 +48,11 @@ Thats all of my tasks :
 
 | Assignments|             Link             |
 | -----------|------------------------------|
-|  read1     | [read1]()         |
-|  read1     | [read1]()         |
+|  read1     |         |
+|     |         |
+
+## Things I want to know more about
+- React is an amazing UI but why we had used normal way If we have React from the beginning.
 
 My notes:
 1. The lectures take a long time and maybe its a little bit hard but its more useful for me I trust .
