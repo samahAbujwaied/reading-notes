@@ -9,3 +9,4 @@
 |  read5     |  [read5](read301-5.md)       |
 |  read6     |  [read6](read301-6.md)       |
 |  read7     |  [read7](read301-7.md)       |
+|  read8     |  [read8](read301-8.md)       |
