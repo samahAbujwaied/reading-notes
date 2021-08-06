@@ -1,4 +1,6 @@
 # Code 401 - Advanced Software Development in Full-Stack JavaScript 
+
+
 | Assignments|             Link             |
 | -----------|------------------------------|
 |  read1     |  [read1](read401-1.md)       |
