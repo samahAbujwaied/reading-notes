@@ -3,6 +3,7 @@
 
 | Assignments|             Link             |
 | -----------|------------------------------|
+|  read0     |  [read0](read401-0.md)       |
 |  read1     |  [read1](read401-1.md)       |
 |  read2     |  [read2]()       |
 |  read3     |  [read3]()       |
