@@ -9,7 +9,7 @@
 |  read3     |  [read3](read401-3.md)       |
 |  read4     |  [read4](read401-4.md)       |
 |  Linked Lists |  [Linked Lists](Linked_Lists.md)       |
-|  read5     |  [read5]()       |
+|  read5     |  [read5](read401-5.md)       |
 |  read6     |  [read6]()       |
 |  read7     |  [read7]()       |
 |  read8     |  [read8]()       |
