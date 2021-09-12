@@ -24,3 +24,4 @@
 |  read18    |  [read18](read401-18.md)     |
 |  read19    |  [read19](read401-19.md)     |
 |  read26    |  [read26](read401-26.md)     |
+|  read27    |  [read27](read401-27.md)     |
