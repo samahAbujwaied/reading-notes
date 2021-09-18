@@ -29,3 +29,7 @@
 |  read29    |  [read29](read401-29.md)     |
 |  read30    |  [read30](read401-30.md)     |
 |  read31    |  [read31](read401-31.md)     |
+|  read32    |  [read32](read401-32.md)     |
+|  read33    |  [read33](read401-33.md)     |
+|  read34    |  [read34](read401-34.md)     |
+|  read35    |  [read35](read401-35.md)     |
