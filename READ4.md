@@ -33,3 +33,10 @@
 |  read33    |  [read33](read401-33.md)     |
 |  read34    |  [read34](read401-34.md)     |
 |  read35    |  [read35](read401-35.md)     |
+|  read36    |  [read36](read401-36.md)     |
+|  read37    |  [read37](read401-37.md)     |
+|  read38    |  [read38](read401-38.md)     |
+|  read39    |  [read39](read401-39.md)     |
+|  read41    |  [read41](read401-41.md)     |
+|  read42    |  [read42](read401-42.md)     |
+|  read43    |  [read43](read401-43.md)     |
